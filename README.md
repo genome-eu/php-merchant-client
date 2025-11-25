@@ -2,7 +2,7 @@ Genome Merchant Client Library
 ==============================
 
 ![PHP](https://img.shields.io/badge/PHP-7.2+-blue)
-![CI](https://github.com/genomewallet/php-merchant-client/actions/workflows/tests.yml/badge.svg)
+![CI](https://github.com/genome-eu/php-merchant-client/actions/workflows/tests.yml/badge.svg)
 
 Genome merchant account client library.
 
